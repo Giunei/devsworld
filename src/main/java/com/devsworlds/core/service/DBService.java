@@ -9,4 +9,8 @@ public class DBService {
 
     @Autowired
     private PessoaController pessoaController;
+
+    public void instanciaDB() {
+
+    }
 }
